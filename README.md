@@ -25,4 +25,4 @@ Community Cloud(CC) is an easy-to-use web-based system for a community. Communit
  - Open .env and save your database informations
  
  ## Issues
-If you come across any issues please report them [here](https://github.com/moh4mmad/community-cloud/issues)
+If you have a question, found a bug or want to propose a feature, have a look at the [issues page.](https://github.com/moh4mmad/community-cloud/issues)
